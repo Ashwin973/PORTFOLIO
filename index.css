@@ -1,0 +1,159 @@
+nav
+{
+    color: #edf2f4;
+    background-color: #2b2d42;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1rem;
+}
+.links
+{
+    display: flex;
+    gap: 40px;
+}
+.links a
+{
+    font-size: 1.3rem;
+    text-decoration: none;
+    color: #edf2f4;
+}
+body
+{
+    background-color:black;
+   /* background-image: url('images/5073414.jpg');
+    background-size: contain;
+    position: relative;*/
+}
+.one
+{
+    
+    align-items: center;
+    padding: 9rem;
+    display: flex;
+    justify-content: space-around;
+}
+.me
+{
+    border-radius: 50%;
+    filter: drop-shadow(0px 0px 10px black);
+}
+.details
+{
+    text-align: center;
+    
+}
+.details h4
+{
+    color: #edf2f4;
+    font-size: 2.5rem;
+    font-style: italic;
+}
+.name
+{
+    
+font-family: 'Teko', sans-serif;
+    font-size: 4rem;
+    color: #ef233c;
+}
+#contact
+{
+    padding: 1rem;
+    background-color: #2b2d42;
+    color:#edf2f4;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.social
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20px;
+}
+.social a:hover
+{
+    filter: drop-shadow();
+}
+.nptel
+{
+    padding-left: 7rem;
+}
+.nptel h3
+{
+    
+    font-family: 'Teko', sans-serif;
+    font-size: 3rem;
+    color: #7ecfa6a1;  
+}
+.cours
+{
+    padding-left: 7rem;
+}
+.cours h3
+{
+    font-family: 'Teko', sans-serif;
+    font-size: 3rem;
+    color: #7ecfa6a1;  
+}
+.res h2
+{
+    font-style: italic;
+    font-size: 2.5rem;
+    color: white;
+}
+#certify h2
+{
+    color:white;
+}
+#education{
+    display:flex;
+    height:98vh;
+    gap:2%;
+    margin-left: 30px;    
+    justify-content: space-evenly;
+}
+#SSLC,#HSC,#clg{
+    background-color:darkgray;
+    height:60vh;
+    padding-top:10%;
+    border: 2px solid black;
+    border-radius: 25px;
+    align-items: center;
+    text-align: center;
+}
+#eed {
+    color:white;
+}
+#JECT1,#ject2 
+{
+    background-color:grey;
+    color:black;
+    font-size: large;
+    gap: 100px;
+    width: 400px;
+    background-color: white;
+
+}
+#JECT1 p{
+    font-size: large;
+    font-size: bold;
+}
+
+.container{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    height: 500px;
+    flex:1px;
+    width: 8000px;
+    margin: 250px;
+    padding-right: -400px;
+    margin-right: -400px;
+    gap: 80px;
+}
+#JECT1 h2,#ject2 h2
+{
+    color:black;
+}
